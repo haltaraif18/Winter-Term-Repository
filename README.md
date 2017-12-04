@@ -5,4 +5,4 @@ Is this a new branch?
 It is not so
 Actually it was a new branch and these edits were only in GitDesktop Branch.
 
-So what I did was go to the top bar and did new branch. Then to commit changes I did exactly what was in the first paragraph. Then, I did Branch -> Merge into current branch and I was done. 
+So what I did was go to the top bar and did new branch. Then to commit changes I did exactly what was in the first paragraph. Then, I did a pull request and merged on the github site.
